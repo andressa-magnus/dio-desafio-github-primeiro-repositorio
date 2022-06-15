@@ -1,0 +1,21 @@
+Comandos_Principais_GIT
+- cd/ = navegador 
+- dir = listar
+- mkdir = criação de pastas 
+- del = deletar arquivos das pastas 
+- cd.. = retroceder pastas 
+- cls ou CRTL+L = limpar a tela
+- TAB = autocomplete 
+- echo = printa o que esta escrito 
+-  ls = listar 
+- .. = voltar pastas
+- echo "nome do araquivo que deseja criar" > .txt<- extesão do arquivo que deseja criar
+- mrdir "nome da pasta que deseja deletar" S/Q
+- git init = inicia o repositorio do git/ pasta gerencial
+- git add = mover arquivos, dar inicio ao versionamento 
+- git commit -m = enviar os arquivos/ salvar
+- git satus = mostr como esta o arquivo
+- git add * = adiciona todos os arquivos modificados 
+- mv nome do aquivo ./repositorio/. = move repositorio 
+- git push = sobe o codigo par github
+- git clone = baixar repositorios 
